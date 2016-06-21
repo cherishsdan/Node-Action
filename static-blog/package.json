@@ -19,6 +19,7 @@
     "express": "^4.14.0",
     "fs-extra": "^0.30.0",
     "markdown-it": "^6.1.0",
+    "moment": "^2.13.0",
     "open": "0.0.5",
     "serve-static": "^1.11.1",
     "swig": "^1.4.2"

@@ -1,0 +1,26 @@
+{
+  "name": "static-blog",
+  "version": "1.0.0",
+  "description": "a static Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "cherishsdan",
+  "license": "MIT",
+  "bin": {
+    "myblog": "./bin/myblog"
+  },
+  "dependencies": {
+    "commander": "^2.8.1",
+    "express": "^4.14.0",
+    "fs-extra": "^0.30.0",
+    "markdown-it": "^6.1.0",
+    "open": "0.0.5",
+    "serve-static": "^1.11.1",
+    "swig": "^1.4.2"
+  }
+}
